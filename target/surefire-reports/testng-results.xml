@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="29079" started-at="2020-07-24T17:18:01Z" finished-at="2020-07-24T17:18:30Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="29079" started-at="2020-07-24T17:18:01Z" finished-at="2020-07-24T17:18:30Z">
+      <class name="pack.As.Ash">
+        <test-method status="PASS" signature="as()[pri:0, instance:pack.As.Ash@7364985f]" name="as" duration-ms="28930" started-at="2020-07-24T22:48:01Z" finished-at="2020-07-24T22:48:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- as -->
+      </class> <!-- pack.As.Ash -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
